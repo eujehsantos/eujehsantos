@@ -23,4 +23,5 @@
   <a href="https://www.linkedin.com/in/jessica-santos-96720a171" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
   ![Snake animation](https://github.com/eujehsantos/eujehsantos/blob/output/github-contribution-grid-snake.svg)
+  [![readme](https://github-readme-stats.vercel.app/api/pin/?username=eujehsantos&repo=eujehsantos&theme=react)](https://github.com/eujehsantos/eujehsantos)
 </div>
