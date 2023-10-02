@@ -2,7 +2,7 @@
 
 <div>
   <a href="https://github.com/eujehsantos">
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=eujehsantos&show_icons=true&theme](https://github-readme-stats.vercel.app/api?username=eujehsantos&theme=one_dark_pro&show_icons=true&text_color=FFF&title_color=FF69B4"/>
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=eujehsantos&theme](https://github-readme-stats.vercel.app/api?username=eujehsantos&theme=one_dark_pro&show_icons=true&icon_color=9370DB&text_color=FFF&title_color=FF69B4"/>
   <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=one_dark_pro&title_color=FF69B4&text_color=FFF"/>
 </div>
 <div style="display: inline_block"><br>
@@ -21,8 +21,8 @@
  <a href="https://discord.gg/eu.jeeh#8598" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:jessica.css@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jessica-santos-96720a171" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
 
   ![Snake animation](https://github.com/eujehsantos/eujehsantos/blob/output/github-contribution-grid-snake.svg)
-  [![readme](https://github-readme-stats.vercel.app/api/pin/?username=eujehsantos&repo=eujehsantos&theme=react)](https://github.com/eujehsantos/eujehsantos)
+  
+</div>
 
