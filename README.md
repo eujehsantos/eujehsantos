@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=150&section=header"/>
 
 <p align="center">
   <img src="https://github.com/eujehsantos/eujehsantos/assets/134548106/143a039f-c505-4c56-aa36-283e685c121f" alt="Gif">
