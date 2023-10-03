@@ -1,6 +1,9 @@
-## 💜 Olá, meu nome é <strong>Jéssica Santos!</strong>
 
-#### Sou uma entusiasta da tecnologia que está apenas começando a explorar o vasto mundo da programação, sou formada em gestão financeira e em transição de carreira, e embarcando nesta jornada de aprendizado.
+![Design-sem-nome](https://github.com/eujehsantos/eujehsantos/assets/134548106/546d0ce1-9aa1-4bcd-8892-f3f2bf8dfc78)
+
+### 💜 Olá, meu nome é <strong>Jéssica Santos!</strong>
+
+#### Sou uma entusiasta da tecnologia que está apenas começando a explorar o vasto mundo da programação, sou formada em gestão financeira em transição de carreira, e embarcando nesta jornada de aprendizado.
 
 <div>
   <a href="https://github.com/eujehsantos">
