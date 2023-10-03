@@ -1,5 +1,7 @@
 ## 💜 Olá, meu nome é <strong>Jéssica Santos!</strong>
 
+#### Sou uma entusiasta da tecnologia que está apenas começando a explorar o vasto mundo da programação.sou formada em gestão financeira e em transição de carreira, e embarcando nesta jornada de aprendizado.
+
 <div>
   <a href="https://github.com/eujehsantos">
   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=eujehsantos&theme](https://github-readme-stats.vercel.app/api?username=eujehsantos&theme=one_dark_pro&show_icons=true&icon_color=9370DB&text_color=FFF&title_color=FF69B4"/>
@@ -26,3 +28,4 @@
   
 </div>
 
+<sub>Made with 💜 by JS.</sub>    
