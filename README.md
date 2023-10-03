@@ -1,5 +1,9 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=120&section=header"/>
 
+<p align="center">
+  <img src="https://github.com/eujehsantos/eujehsantos/assets/134548106/143a039f-c505-4c56-aa36-283e685c121f" alt="Gif">
+</p>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9370DB&size=35&center=true&vCenter=true&width=1000&lines=Seja+Bem+vindo!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
