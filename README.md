@@ -5,7 +5,7 @@
 <div>
   <a href="https://github.com/eujehsantos">
   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=eujehsantos&theme](https://github-readme-stats.vercel.app/api?username=eujehsantos&theme=one_dark_pro&show_icons=true&icon_color=9370DB&text_color=FFF&title_color=FF69B4"/>
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=one_dark_pro&title_color=FF69B4&text_color=FFF"/>
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eujehsantos&layout=compact&theme=one_dark_pro&title_color=FF69B4&text_color=FFF"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
