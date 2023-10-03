@@ -28,4 +28,4 @@
   
 </div>
 
-<sub>Made with 💜 by JS.</sub>    
+<sub>Feito com 💜. JS</sub> 
