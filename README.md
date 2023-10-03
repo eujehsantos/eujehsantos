@@ -28,4 +28,8 @@
   
 </div>
 
-<sub>Feito com 💜. JS</sub> 
+<p>
+<p align="right">
+  <sub>JS💜</sub> 
+</p>
+
