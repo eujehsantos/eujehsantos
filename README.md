@@ -1,6 +1,6 @@
 ## 💜 Olá, meu nome é <strong>Jéssica Santos!</strong>
 
-#### Sou uma entusiasta da tecnologia que está apenas começando a explorar o vasto mundo da programação.sou formada em gestão financeira e em transição de carreira, e embarcando nesta jornada de aprendizado.
+#### Sou uma entusiasta da tecnologia que está apenas começando a explorar o vasto mundo da programação, sou formada em gestão financeira e em transição de carreira, e embarcando nesta jornada de aprendizado.
 
 <div>
   <a href="https://github.com/eujehsantos">
